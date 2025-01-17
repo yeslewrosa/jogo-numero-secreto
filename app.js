@@ -1,5 +1,5 @@
 let listaDeNumerosSorteados = [];//cria uma lista para adicionar os números dos chutes
-let numeroLimite = 100;
+let numeroLimite = 50;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
